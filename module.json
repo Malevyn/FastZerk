@@ -11,6 +11,6 @@
     "dependencies": {
         "library": ""
     },
-    "servers": [""],
-    "supportUrl": ""
+    "servers": ["https://raw.githubusercontent.com/Malevyn/FastZerk/master/"],
+    "supportUrl": "https://github.com/Malevyn/FastZerk/issues"
 }
