@@ -1,0 +1,16 @@
+{
+    "disableAutoUpdate": false,
+    "name": "Zerk",
+    "author": "Malevyn",
+    "description": "Let's you cast skills faster",
+    "version": "1.0",
+    "options": {
+        "niceName": "Fast Zerk",
+        "reloadable": true
+    },
+    "dependencies": {
+        "library": ""
+    },
+    "servers": [""],
+    "supportUrl": ""
+}
